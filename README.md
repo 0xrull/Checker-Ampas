@@ -3,7 +3,7 @@
 # How to install
 * git clone https://github.com/stuckcrew/Checker-Ampas
 * gem install lolcat
-* cd toolscoccot
+* cd Checker-Ampas
 * bash run
 
 # WARNING
